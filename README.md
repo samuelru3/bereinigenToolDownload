@@ -1,4 +1,3 @@
-# bereinigenToolDownload
 ## Downloads welche bei der Installation von CleaningTool Heruntergeladen werden.
 
 
